@@ -1,0 +1,49 @@
+body {
+  font-family: 'Hind Siliguri', sans-serif;
+  background-color: #f2f2f2;
+}
+header {
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+  background-image: url(https://images.pexels.com/photos/2233416/pexels-photo-2233416.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2);
+  background-size: cover;
+}
+h1 {
+  margin: 0;
+  font-size: 36px;
+  color: ghostwhite;
+  text-shadow: 0 0 3px black, 0 0 5px #0000FF;
+}
+nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+}
+nav li {
+  margin: 0 10px;
+  text-decoration: underline;
+}
+nav a {
+  color: #fff;
+  text-decoration: none;
+}
+main {
+  padding: 20px;
+  background-color: #fff;
+  text-align: center;
+  box-shadow: 0 0 10px #ccc;
+}
+section h2 {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+footer {
+  background-color: #333;
+  color: #fff;
+  padding: 10px;
+  text-align: center;
+}
