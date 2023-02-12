@@ -7,7 +7,7 @@ header {
   color: #fff;
   padding: 20px;
   text-align: center;
-  background-image: url(https://images.pexels.com/photos/2233416/pexels-photo-2233416.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2);
+  background-image: url(/image.jpeg);
   background-size: cover;
 }
 h1 {
